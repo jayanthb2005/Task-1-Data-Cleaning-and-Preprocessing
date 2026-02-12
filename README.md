@@ -6,21 +6,21 @@ The objective was to clean and preprocess a raw dataset to make it analysis-read
 
 📁 Dataset Used:
 Netflix Movies and TV Shows Dataset:
-Total records: 8807
+Total records: 8807,
 Total columns: 12
 
 The dataset contains information about Netflix titles including:
-Show ID
-Type (Movie/TV Show)
-Title
-Director
-Cast
-Country
-Date Added
-Release Year
-Rating
-Duration
-Genre (listed_in)
+Show ID,
+Type (Movie/TV Show),
+Title,
+Director,
+Cast,
+Country,
+Date Added,
+Release Year,
+Rating,
+Duration,
+Genre (listed_in),
 Description
 
 🎯 Objective:
